@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(107, 139, 141);
+    margin:0;
+}
+
+.menu{
+    height: 100px;
+    text-align: center;
+    background-color: white;
+    font-family:'Segoe UI Black';
+}
+
+.websitelogo{
+    float:left;
+    padding-left: 1%;
+    width: 100px;
+}
+
+.menu div{
+    padding-top: 30px;
+}
+
+.menu a{
+    font-size: 25px;
+    padding: 150px;
+    text-decoration:none;
+    color:rgb(107, 139, 141);
+}
+
+.menu a:visited{
+    color:rgb(107, 139, 141);
+
+}
+
+.container{
+    padding: 2% 4%;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.linkerkant{
+    float:left;
+    width:50%;
+    padding-right: 10px;
+}
+
+.rechterkant{
+    padding-left: 10px;
+}
+
+
+.nsm{
+    width: 24%;
+}
+
+.rbb{
+    width:24%;
+}
