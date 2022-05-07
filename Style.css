@@ -16,18 +16,19 @@ body{
     width: 100px;
 }
 
-.menu div{
+.submenu{
     padding-top: 30px;
 }
 
-.menu a{
+a{
     font-size: 25px;
-    padding: 150px;
+    padding-left: 150px;
+    padding-right: 150px;
     text-decoration:none;
     color:rgb(107, 139, 141);
 }
 
-.menu a:visited{
+a:visited{
     color:rgb(107, 139, 141);
 
 }
@@ -54,4 +55,29 @@ body{
 
 .rbb{
     width:24%;
+}
+
+.ultimateteam{
+    padding-left: 50%;
+    float:right;
+    width:49%;
+}
+
+.ultimateteamhomescreen{
+    float:right;
+    width: 49%;
+}
+
+.mijnmotivatie{
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.gamen{
+    width:60%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.neymar{
+    color:white;
 }
